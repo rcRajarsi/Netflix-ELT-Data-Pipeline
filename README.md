@@ -6,13 +6,13 @@
 
 
 
-### Overview
+## Overview
 
 We analyze Netflix content data to extract insights on top actors, release trends, and global content distribution.
 
 
 
-### Tools \& Technologies
+## Tools \& Technologies
 
 \- **Jupyter Notebook** – *For extracting the dataset and loading it into Microsoft SQL Server.*
 
@@ -22,7 +22,7 @@ We analyze Netflix content data to extract insights on top actors, release trend
 
 
 
-### Project Steps
+## Project Steps
 
 1\. Downloaded the Netflix CSV Dataset
 
@@ -34,7 +34,7 @@ We analyze Netflix content data to extract insights on top actors, release trend
 
 
 
-### Visuals and Pipeline Diagram
+## Visuals and Pipeline Diagram
 
 Below is the ELT Pipeline Diagram:
 !\[Netflix ELT Pipeline](Pipeline\_Diagram/ELT\_Data\_Pipeline\_Diagram.jpg)
@@ -49,7 +49,7 @@ And here are the Power BI visuals:
 
 
 
-### Folder Structure
+## Folder Structure
 
 Netflix-ELT-Data-Pipeline/
 
