@@ -2,7 +2,7 @@
 
 
 
-##### *This project demonstrates an end-to-end ELT (Extract, Load, Transform) data pipeline using the Netflix dataset.*
+### *This project demonstrates an end-to-end ELT (Extract, Load, Transform) data pipeline using the Netflix dataset.*
 
 
 
