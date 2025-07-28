@@ -2,7 +2,7 @@
 
 
 
-### *This project demonstrates an end-to-end ELT (Extract, Load, Transform) data pipeline using the Netflix dataset.*
+#### *This project demonstrates an end-to-end ELT (Extract, Load, Transform) data pipeline using the Netflix dataset.*
 
 
 
@@ -37,15 +37,16 @@ We analyze Netflix content data to extract insights on top actors, release trend
 ## Visuals and Pipeline Diagram
 
 Below is the ELT Pipeline Diagram:
-!\[Netflix ELT Pipeline](Pipeline\_Diagram/ELT\_Data\_Pipeline\_Diagram.jpg)
+
+![Netflix ELT Pipeline](Pipeline_Diagram/ELT_Data_Pipeline_Diagram.jpg)
 
 
 
 And here are the Power BI visuals:
 
-!\[Power BI Dashboard](Visualization\_PowerBI/Content\_Overview\_Page.jpg)
+![Power BI Dashboard](Visualization_PowerBI/Content_Overview_Page.jpg)
 
-!\[Power BI Dashboard](Visualization\_PowerBI/Creators\_Regions\_Page.jpg)
+![Power BI Dashboard](Visualization_PowerBI/Creators_Regions_Page.jpg)
 
 
 
