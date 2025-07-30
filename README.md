@@ -64,7 +64,7 @@ Netflix-ELT-Data-Pipeline/
 
 ├── Pipeline\_Diagram/ *Visual diagram representing the complete ELT data pipeline*
 
-├── README.md *Project documentation and overview*
+├── README.md/ *Project documentation and overview*
 
 
 ## Author
