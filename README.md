@@ -67,6 +67,6 @@ Netflix-ELT-Data-Pipeline/
 ├── README.md *Project documentation and overview*
 
 
-## 👨‍💻 Author
+## Author
 
 **Rajarsi Roy Chowdhury**  
